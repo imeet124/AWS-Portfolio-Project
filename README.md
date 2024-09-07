@@ -1,14 +1,13 @@
 Steps:
-1. Create an emaplty repositoy in codecommit.
-2. Add a policy to your IAM user so you can access codecommit.
-3. Create Git credentials for your IAM user to allow HTTPS connection to codecommit.
-4. Clone the repository (Create an empty folder for future code)
+1. A way to create/host a webpage.
+2. A way to invoke the math functionality.
+3. A way to do some math.
+4. Someowhere to store/return the math result.
+5. A way to handle permissions.
 
 Services:
-1. Amplify
-2. CodeCommit
-3. Cognito
-4. API Gateway
-5. Lambda
-6. DynamoDB
-7. IAM
+1.  AWS Amplify
+2.  AWS Lambda
+3.  Amazon API Gateway
+4.  Amazon DynamoDB
+5.  AWS Identity & Access Management(IAM)
